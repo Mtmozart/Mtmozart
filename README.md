@@ -26,7 +26,8 @@
 
 
 
-  <img align="right" alt="Matheus-Mozart" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/467195714745663498/1103784383149781032/SPOILER_berserk.jpg?width=593&height=593">
+<img align="right" alt="Puppy" height="150" style="border-radius:50px;" src="https://placedog.net/300/300">
+
 </div>
   
   ##

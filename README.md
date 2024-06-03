@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/matheus-borges-327ba0255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   <div>
-  Olá, eu sou Matheus Mozart e sou um desenvolvedor Full Stack, mas atualmente estou focado no Front-end. Atualmente, estou estudando React 6 com Typescript para me manter atualizado e melhorar minhas habilidades.
+  Olá, eu sou Matheus Mozart e sou um desenvolvedor Full Stack, mas atualmente estou focado no Back-end,  kotlin, mas tenho conhecimento em node, react 6, nestjs e java com springboot, spring security, além dissom tenho conhecimento em OOP, SOLID, arquitertura de software. 
 
 Estou buscando minha primeira oportunidade de emprego na área de desenvolvimento de software e estou ansioso para aplicar minhas habilidades e conhecimentos em um ambiente profissional. Sinta-se à vontade para me perguntar qualquer coisa, e você pode me encontrar através do e-mail mmsnborges@gmail.com. Obrigado por visitar meu perfil no Github!
 </div>

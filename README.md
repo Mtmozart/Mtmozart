@@ -24,7 +24,8 @@
 <!-- Maven Icon -->
 <img align="center" alt="Maven" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
 
-
+<!-- Maven Icon -->
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 <img align="right" alt="Puppy" height="150" style="border-radius:50px;" src="https://placedog.net/300/300">
 

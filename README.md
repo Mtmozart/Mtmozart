@@ -41,6 +41,6 @@
   <div>
 Olá, eu sou Matheus Mozart, sou um desenvolvedor Full Stack.
 
- Sinta-se à vontade para me perguntar qualquer coisa, e você pode me encontrar através do e-mail mmsnborges@gmail.com. Obrigado por visitar meu perfil no Github!
+ Sinta-se à vontade para me perguntar qualquer coisa, e você pode me encontrar através do e-mail bmozart.dev@gmail.com. Obrigado por visitar meu perfil no Github!
 </div>
 

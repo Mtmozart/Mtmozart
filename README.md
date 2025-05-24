@@ -35,12 +35,12 @@
  
 <div> 
  <a href="https://instagram.com/mt.mozart" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:mmsnborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:bmozart.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-borges-327ba0255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   <div>
-  Olá, eu sou Matheus Mozart e sou um desenvolvedor Full Stack, mas atualmente estou focado no Back-end,  kotlin, mas tenho conhecimento em node, react 6, nestjs e java com springboot, spring security, além dissom tenho conhecimento em OOP, SOLID, arquitertura de software. 
+Olá, eu sou Matheus Mozart, sou um desenvolvedor Full Stack.
 
-Estou buscando minha primeira oportunidade de emprego na área de desenvolvimento de software e estou ansioso para aplicar minhas habilidades e conhecimentos em um ambiente profissional. Sinta-se à vontade para me perguntar qualquer coisa, e você pode me encontrar através do e-mail mmsnborges@gmail.com. Obrigado por visitar meu perfil no Github!
+ Sinta-se à vontade para me perguntar qualquer coisa, e você pode me encontrar através do e-mail mmsnborges@gmail.com. Obrigado por visitar meu perfil no Github!
 </div>
 
